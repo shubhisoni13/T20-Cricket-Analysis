@@ -2,7 +2,7 @@ Conducted in-depth analysis of player performance, match statistics, and team st
 
 
 Dashboard Link:
-https://app.powerbi.com/groups/me/reports/74f7dd60-e225-4446-8168-93dcd8600dc8/ReportSectionddd36287ad29b36004c1?experience=power-bi
+https://app.powerbi.com/links/arSrl9SCE_?ctid=ffa5b9ed-b71c-4988-a7bb-e19b0f3c0030&pbi_source=linkShare
 
 ![Screenshot 2024-12-22 182409](https://github.com/user-attachments/assets/116e6763-8c2e-4cb0-ba72-c8c9e9ba7810)
 ![Screenshot 2024-12-22 182254](https://github.com/user-attachments/assets/047fc588-ba28-415a-ad17-9ce7536f5291)
